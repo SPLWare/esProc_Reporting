@@ -1,0 +1,6 @@
+Community Edition：
+1. Help Documentation updated；
+2. New functionality: Hide gridlines;
+3. New function: replace(s,p:l,b), which replaces a substring at the specified position in a source string;
+4. New option: A.concat@y(), which concatenates members to the specified length;
+5. New option: s.split@y(), which splits a source string accoring to specified lengths of different segments.
